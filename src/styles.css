@@ -1,0 +1,11 @@
+/* You can add global styles to this file, and also import other style files */
+
+.warning-validator strong{
+    color: red;
+}
+
+legend{
+    font-size: 2em;
+    color: #545454;
+    margin: 0px 20px 0px 20px;
+}
